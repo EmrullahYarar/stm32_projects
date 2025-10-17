@@ -1,0 +1,1 @@
+This application is for DHT 11 temperature and humidity sensor. It made for stm32 Nucleo64-c031c6 card. Create a project for Nucleo64-c031c6.Firstly, clear all pins, set clock to 48Mhz, set System Core/RCC HSE-> High Speed Crystal/Ceramic Resonator. Open timer choose TIM1 make "Clock Source"-> "Internal Clock". 
